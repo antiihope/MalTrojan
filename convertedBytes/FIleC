@@ -1,0 +1,26 @@
+CodeBase = file:///C:/Windows/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll
+CustomAttributes = [System.Runtime.CompilerServices.RuntimeCompatibilityAttribute(WrapNonExceptionThrows = True)] [System.Runtime.CompilerServices.CompilationRelaxationsAttribute((Int32)8)]
+DefinedTypes = My.MyApplication My.MyComputer My.MyProject My.MyProject+MyWebServices My.MyProject+ThreadSafeObjectProvider`1[T] L
+EntryPoint = Void main()
+EscapedCodeBase = file:///C:/Windows/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll
+Evidence = <System.Security.Policy.Url version="1">
+<Url>file:///C:/Windows/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll</Url>
+</System.Security.Policy.Url>
+ <System.Security.Policy.Zone version="1">
+<Zone>MyComputer</Zone>
+</System.Security.Policy.Zone>
+
+ExportedTypes = L
+FullName = Stub, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+GlobalAssemblyCache = False
+HostContext = 0
+ImageRuntimeVersion = v2.0.50727
+IsDynamic = False
+IsFullyTrusted = True
+Location = 
+ManifestModule = Stub.exe
+Modules = Stub.exe
+PermissionSet = 
+ReflectionOnly = False
+SecurityRuleSet = Level1
+

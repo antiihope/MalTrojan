@@ -1,0 +1,25 @@
+CodeBase = file:///C:/Windows/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll
+CustomAttributes = [System.Reflection.AssemblyCompanyAttribute("image")] [System.Reflection.AssemblyTitleAttribute("image")] [System.Reflection.AssemblyConfigurationAttribute("")] [System.Runtime.CompilerServices.SuppressIldasmAttribute()] [System.Reflection.AssemblyDescriptionAttribute("image")] [System.Runtime.CompilerServices.CompilationRelaxationsAttribute((Int32)8)] [System.Reflection.AssemblyProductAttribute("image")] [System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")] [System.Reflection.AssemblyTrademarkAttribute("image")] [System.Reflection.AssemblyCopyrightAttribute("Copyright ?  2022")] [System.Diagnostics.DebuggableAttribute((System.Diagnostics.DebuggableAttribute+DebuggingModes)263)] [System.Runtime.CompilerServices.RuntimeCompatibilityAttribute(WrapNonExceptionThrows = True)] [System.Runtime.InteropServices.GuidAttribute("f85e9472-b401-4c24-9a0f-6707473f76f0")] [System.Runtime.InteropServices.ComVisibleAttribute((Boolean)True)]
+DefinedTypes = runpe.Properties.Resources runpe.Properties.Settings order.yes order.yes+toc4y3H7A3MQvdWg1Z order.yes+VuMOxgaxo5whnpeOJ8 order.yes+RV08Z3vcx6g3CSWYYe order.yes+sYTggxwHIks2MIH0as order.yes+HT0ZM04kVtWJpEv9CM order.yes+RrWmfeUdpoUdviBfA3 order.yes+aVklAIEiSsC3HiBxou order.yes+x2cNUX8N8Eo02y5ha2 order.yes+RlymI90pkBAeHLMjKK order.yes+FFXjdbgXWhFscoKSgB order.yes+cfSXvLriHKBFlT5bAv order.yes+CpDEnbtFqsPAAWhmR7 A9NivQZpP8F0XQJLqe.iQ0oN9fEMpuCbeEM1k <Module>{F1080198-A4B5-439E-8195-E53635F248EC} qRbMrgMUhjk7d0Zx5E.TmnXGi60TFJyatx21I qRbMrgMUhjk7d0Zx5E.TmnXGi60TFJyatx21I+UB1BhG1IU6V1sO8IcS RmrdxaAEV4WQ6BxiLB.pdixy9nFY0XmJHVPW9 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492} <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=256 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=40 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=30 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=32 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=16 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=64 <PrivateImplementationDetails>{CBD9811D-7036-44F1-B73B-6CEA11BBA492}+__StaticArrayInitTypeSize=18
+EntryPoint = 
+EscapedCodeBase = file:///C:/Windows/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll
+Evidence = <System.Security.Policy.Url version="1">
+<Url>file:///C:/Windows/Microsoft.Net/assembly/GAC_64/mscorlib/v4.0_4.0.0.0__b77a5c561934e089/mscorlib.dll</Url>
+</System.Security.Policy.Url>
+ <System.Security.Policy.Zone version="1">
+<Zone>MyComputer</Zone>
+</System.Security.Policy.Zone>
+
+ExportedTypes = order.yes
+FullName = runpe, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+GlobalAssemblyCache = False
+HostContext = 0
+ImageRuntimeVersion = v2.0.50727
+IsDynamic = False
+IsFullyTrusted = True
+Location = 
+ManifestModule = runpe.dll
+Modules = runpe.dll
+PermissionSet = 
+ReflectionOnly = False
+SecurityRuleSet = Level1
